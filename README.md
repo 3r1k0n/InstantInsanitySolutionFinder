@@ -11,3 +11,8 @@ Finds solution ([front, right, back, left, top, bottom])
     ["G", "W", "R", "G", "B", "B"]
 ]
 ```
+
+<img src='https://github.com/3r1k0n/InstantInsanitySolutionFinder/blob/master/photos/front.jpg' width='200'>
+<img src='https://github.com/3r1k0n/InstantInsanitySolutionFinder/blob/master/photos/right.jpg' width='200'>
+<img src='https://github.com/3r1k0n/InstantInsanitySolutionFinder/blob/master/photos/behind.jpg' width='200'>
+<img src='https://github.com/3r1k0n/InstantInsanitySolutionFinder/blob/master/photos/left.jpg' width='200'>
