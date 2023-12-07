@@ -1,5 +1,5 @@
 # InstantInsanitySolutionFinder
-Script to find a solution to the Instant Insanity puzzle game
+Script to find a solution to the [Instant Insanity](https://ptwiddle.github.io/Graph-Theory-Notes/s_intro_instantinsanity.html) puzzle game
 
 Finds solution ([front, right, back, left, top, bottom])
 
